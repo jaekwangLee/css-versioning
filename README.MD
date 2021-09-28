@@ -10,6 +10,6 @@
 
 ### like this : link rel="stylesheet" href="./css/style.css"
 
-## 4. node scrypt
+## 4. node script
 
 ## Done!
