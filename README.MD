@@ -8,7 +8,7 @@
 
 ## 3. link your css file to index.html
 
-### like this : /<link rel="stylesheet" href="./css/style.css">/
+### like this : link rel="stylesheet" href="./css/style.css"
 
 ## 4. node scrypt
 
